@@ -1,7 +1,7 @@
 vap-repo
 ========
 
-VAP Project Repository
+#VAP Project Repository
 
-#Author Giuseppe Maldarelli
-#Mail   g.maldarelli@gmail.com
+@Author Giuseppe Maldarelli
+@Mail   g.maldarelli@gmail.com
